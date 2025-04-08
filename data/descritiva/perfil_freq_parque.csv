@@ -1,0 +1,21 @@
+;Sexo;Idade;Frequência semanal;Estado Civil;Meio de transporte;Tempo de permanência (min);Renda familiar mensal (sal. mínimo)
+0;Masculino;26;2;casada(o);carro;30;13.3
+1;Masculino;23;1;solteira(o);ônibus;35;11.8
+2;Feminino;41;5;viúva(o);a pé;170;8.9
+3;Masculino;49;3;separada(o);a pé;45;13.9
+4;Feminino;19;5;solteira(o);carro;60;11.6
+5;Feminino;20;4;solteira(o);a pé;80;16.0
+6;Masculino;27;3;solteira(o);carro;45;19.5
+7;Masculino;38;3;casada(o);a pé;135;9.3
+8;Masculino;27;2;separada(o);ônibus;80;10.2
+9;Feminino;50;7;casada(o);a pé;45;12.4
+10;Masculino;52;2;solteira(o);a pé;100;10.7
+11;Feminino;48;4;casada(o);a pé;75;14.7
+12;Masculino;28;4;casada(o);a pé;60;16.6
+13;Masculino;36;1;casada(o);carro;90;12.5
+14;Feminino;31;3;solteira(o);ônibus;120;8.2
+15;Masculino;56;3;viúva(o);a pé;30;15.4
+16;Feminino;41;6;solteira(o);carro;150;18.8
+17;Masculino;44;1;casada(o);ônibus;50;12.1
+18;Feminino;29;2;separada(o);a pé;40;5.0
+19;Masculino;31;3;casada(o);ônibus;165;7.6
